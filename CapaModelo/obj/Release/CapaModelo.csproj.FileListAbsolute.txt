@@ -1,0 +1,6 @@
+C:\Users\Rodrigo\Documents\UMG\10. Décimo Semestre\Aseguramiento de la Calidad de Software\Proyecto Final\CapaModelo\bin\Release\CapaModelo.dll
+C:\Users\Rodrigo\Documents\UMG\10. Décimo Semestre\Aseguramiento de la Calidad de Software\Proyecto Final\CapaModelo\bin\Release\CapaModelo.pdb
+C:\Users\Rodrigo\Documents\UMG\10. Décimo Semestre\Aseguramiento de la Calidad de Software\Proyecto Final\CapaModelo\obj\Release\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Documents\UMG\10. Décimo Semestre\Aseguramiento de la Calidad de Software\Proyecto Final\CapaModelo\obj\Release\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\UMG\10. Décimo Semestre\Aseguramiento de la Calidad de Software\Proyecto Final\CapaModelo\obj\Release\CapaModelo.dll
+C:\Users\Rodrigo\Documents\UMG\10. Décimo Semestre\Aseguramiento de la Calidad de Software\Proyecto Final\CapaModelo\obj\Release\CapaModelo.pdb
